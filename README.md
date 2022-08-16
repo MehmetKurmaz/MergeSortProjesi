@@ -1,0 +1,2 @@
+# MergeSortProjesi
+patika.dev
